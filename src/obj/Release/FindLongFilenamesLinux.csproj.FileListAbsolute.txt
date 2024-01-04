@@ -1,0 +1,12 @@
+X:\versetty\Desktop\FindLongFilenamesLinux\bin\Release\FindLongFilenamesLinux.exe.config
+X:\versetty\Desktop\FindLongFilenamesLinux\bin\Release\FindLongFilenamesLinux.exe
+X:\versetty\Desktop\FindLongFilenamesLinux\bin\Release\FindLongFilenamesLinux.pdb
+X:\versetty\Desktop\FindLongFilenamesLinux\obj\Release\FindLongFilenamesLinux.csproj.AssemblyReference.cache
+X:\versetty\Desktop\FindLongFilenamesLinux\obj\Release\CDSD.Forms.FAbout.resources
+X:\versetty\Desktop\FindLongFilenamesLinux\obj\Release\FindLongFilenamesLinux.Form1.resources
+X:\versetty\Desktop\FindLongFilenamesLinux\obj\Release\FindLongFilenamesLinux.FormRename.resources
+X:\versetty\Desktop\FindLongFilenamesLinux\obj\Release\FindLongFilenamesLinux.Properties.Resources.resources
+X:\versetty\Desktop\FindLongFilenamesLinux\obj\Release\FindLongFilenamesLinux.csproj.GenerateResource.cache
+X:\versetty\Desktop\FindLongFilenamesLinux\obj\Release\FindLongFilenamesLinux.csproj.CoreCompileInputs.cache
+X:\versetty\Desktop\FindLongFilenamesLinux\obj\Release\FindLongFilenamesLinux.exe
+X:\versetty\Desktop\FindLongFilenamesLinux\obj\Release\FindLongFilenamesLinux.pdb
